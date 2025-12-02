@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ESCAPADE",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-02T06:50:40.402927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Escapade",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/01_Escapade_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Escapade",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/02_Escapade_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Escapade",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/03_Escapade_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Houdini's Great Escapade",
+      "artist": "Dark Moor",
+      "has_synced": false,
+      "path": "select/04_Houdini's_Great_Escapade_Dark_Moor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Escapade I",
+      "artist": "Coppelius",
+      "has_synced": false,
+      "path": "select/05_Escapade_I_Coppelius.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Escapade",
+      "artist": "Mike Batt",
+      "has_synced": false,
+      "path": "select/06_The_Escapade_Mike_Batt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ESCAPADE",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_ESCAPADE_Official髭男dism.txt"
+    }
+  ]
+}
